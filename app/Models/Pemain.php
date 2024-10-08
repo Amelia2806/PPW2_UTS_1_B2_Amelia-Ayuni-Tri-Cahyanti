@@ -8,7 +8,7 @@ class Pemain extends Model
 {
     use HasFactory;
 
-    protected $table = 'pemain'; // Pastikan ini sesuai dengan nama tabel di database
+    protected $table = 'pemain'; 
     
     protected $fillable = [
         'nama_pemain',

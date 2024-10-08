@@ -3,7 +3,7 @@
 
 @section('content')
     <div class="container">
-        <h1>Pemain</h1>
+        <h1>Pemain MU</h1>
         <table class="table">
             <thead>
                 <tr>
